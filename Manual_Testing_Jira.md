@@ -8,8 +8,9 @@ Tools used: Jira, Zephyr Squad.
 ## Functional specifications:
 The below stories were created in Jira and describes the functional specifications of the Automobile" module, for which the final project is performed upon.
 
-inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier
+![story1](https://github.com/emiliancristea11/Manual_Testing_Jira/assets/148649851/73136715-eb74-400a-9f7c-ace4387d9ea5)
+
 
 Here you can find the release that was created for this project:
 
-(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)
+![epic](https://github.com/emiliancristea11/Manual_Testing_Jira/assets/148649851/900d25a3-e283-4679-8a2a-8d7d914c0758)

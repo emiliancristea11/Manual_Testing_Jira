@@ -12,7 +12,7 @@ The below stories were created in Jira and describes the functional specificatio
 
 Here you can find the release that was created for this project:
 
-![epic](https://github.com/emiliancristea11/Manual_Testing_Jira/assets/148649851/900d25a3-e283-4679-8a2a-8d7d914c0758)
+![release](https://github.com/emiliancristea11/Manual_Testing_Jira/assets/148649851/71d6ceee-a16b-4fad-b613-a099fc05454e)
 
 ## Testing Process
 The test process was performed based on the standard test process as described below.

@@ -41,10 +41,12 @@ The plan identifies the items to be tested, the features to be tested, the types
 * a certain percent of bugs have been executed
 * regression testing is finished
 * identified and mitigated product risks
+* closing report generated and sent
   
 1.1.4 Test scope
 Tests in scope: <br>
 (descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)
+
 
 Tests not in scope: <br>
 (descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)

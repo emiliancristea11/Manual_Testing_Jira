@@ -53,16 +53,20 @@ Tests not in scope: <br>
 
 1.1.5 Risks detected <br>
 Project risks: <br>
-(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)
-
+* Supplier issues
+* Tehnical issues
+  
 Product risks: <br>
 (enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)
-
+* low usability
+* low performance
+  
 1.1.6 Evaluating entry criteria
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 ### 1.2 Test Monitoring and Control
-(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
+I realized Test Monitoring and Control stage because it is a phase that is done during the whole testing process with the aim of comparing actual progress and test plan.
+![test metrics](https://github.com/emiliancristea11/Manual_Testing_Jira/assets/148649851/4fb0a15f-4be1-4da6-b367-b967bf54d583)
 
 ### 1.3 Test Analysis
 The testing process will be executed based on the application requirements. (The requirements analysis has been done in order to implement the early testing test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review).

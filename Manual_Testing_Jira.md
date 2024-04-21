@@ -23,12 +23,12 @@ The Test Plan is designed to describe all details of testing for the 'Automobile
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here (inserati link catre documentul cu planul de testare)
 
 1.1.1. Roles asigned to the project and persons allocated <br>
-(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)
 
-Project manager
-Product owner
-Software developer
-QA Engineer
+Project manager - Vasile Poenaru <br>
+Product owner - Andreea Melchisedec <br>
+Software developer - Olaru Bogdan <br>
+QA Engineer - Cristea Emilian <br>
+
 1.1.2 Entry criteria defined <br>
 (enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)
 

@@ -54,18 +54,18 @@ Tests not in scope: <br>
 1.1.5 Risks detected <br>
 Project risks: <br>
 * Supplier issues
-* Tehnical issues
+* Technical issues
   
 Product risks: <br>
 (enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)
 * low usability
 * low performance
   
-1.1.6 Evaluating entry criteria
+1.1.6 Evaluating entry criteria <br>
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 ### 1.2 Test Monitoring and Control
-I realized Test Monitoring and Control stage because it is a phase that is done during the whole testing process with the aim of comparing actual progress and test plan.
+I realized the Test Monitoring and Control stage because it is a phase that is done during the whole testing process with the aim of comparing actual progress and test plan.
 ![test metrics](https://github.com/emiliancristea11/Manual_Testing_Jira/assets/148649851/4fb0a15f-4be1-4da6-b367-b967bf54d583)
 
 ### 1.3 Test Analysis

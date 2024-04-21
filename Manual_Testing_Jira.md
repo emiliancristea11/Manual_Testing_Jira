@@ -8,7 +8,7 @@ Tools used: Jira, Zephyr Squad.
 ## Functional specifications:
 The below stories were created in Jira and describes the functional specifications of the 'Automobile' module, for which the final project is performed upon.
 
-![story1](https://github.com/emiliancristea11/Manual_Testing_Jira/assets/148649851/1fe7ed1f-e6c2-44b0-a2f9-e5e8c4ca07d8)
+![storiuri](https://github.com/emiliancristea11/Manual_Testing_Jira/assets/148649851/dba316de-80d2-4978-806f-ff53c90d1c01)
 
 Here you can find the release that was created for this project:
 

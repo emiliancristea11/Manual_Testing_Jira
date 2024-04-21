@@ -24,17 +24,24 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 1.1.1. Roles asigned to the project and persons allocated <br>
 
-Project manager - Vasile Poenaru <br>
-Product owner - Andreea Melchisedec <br>
-Software developer - Olaru Bogdan <br>
-QA Engineer - Cristea Emilian <br>
+* Project manager - Vasile Poenaru <br>
+* Product owner - Andreea Melchisedec <br>
+* Software developer - Olaru Bogdan <br>
+* QA Engineer - Cristea Emilian <br>
 
 1.1.2 Entry criteria defined <br>
-(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)
-
+* assigning roles
+* business requirements
+* idetified and mitigated project risks
+* test plan created
+* entry requirements met
+  
 1.1.3 Exit criteria defined <br>
-(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)
-
+* all tests are ruled
+* a certain percent of bugs have been executed
+* regression testing is finished
+* identified and mitigated product risks
+  
 1.1.4 Test scope
 Tests in scope: <br>
 (descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)

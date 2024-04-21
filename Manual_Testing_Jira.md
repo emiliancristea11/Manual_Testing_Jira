@@ -65,15 +65,26 @@ Product risks: <br>
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 ### 1.2 Test Monitoring and Control
-I realized the Test Monitoring and Control stage because it is a phase that is done during the whole testing process with the aim of comparing actual progress and test plan.
+I performed the Test Monitoring and Control stage because it is a phase that takes place during the whole testing process with the aim of comparing actual progress and test plan.
+
 ![test metrics](https://github.com/emiliancristea11/Manual_Testing_Jira/assets/148649851/4fb0a15f-4be1-4da6-b367-b967bf54d583)
 
 ### 1.3 Test Analysis
 The testing process will be executed based on the application requirements. (The requirements analysis has been done in order to implement the early testing test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review).
 
-The following test conditions were found:
+The following test conditions were found: <br>
+* Verify that an user can add new vehicle details using valid data
+* Verify that an user can add new insurant details using valid data
+* Verify that an user can add new product details using valid data
+* Verify that an user is successfully able to select a price option
+* Verify that an user is successfully able to send a quote
+* Verify that an user cannot proceed to the next submenu without completing the mandatory fields in 'Enter Vehicle Data'
+* Verify that an user cannot proceed to the next submenu without completing the mandatory fields in 'Enter Insurant Data'
+* Verify that an user is able to select an insurance start date with any date he wishes to
+* Verify that an user actually receives the e-mail he has sent
+* Verify that an user is able to preview a quote before proceeding to the next submenu
 
-(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)
+
 
 ### 1.4 Test Design
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (inserati linkul catre fisierul cu testele, in format pdf, word sau csv)

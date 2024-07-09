@@ -37,8 +37,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 * entry requirements met
   
 1.1.3 Exit criteria defined <br>
-* all tests are ruled
-* a certain percent of bugs have been executed
+* all tests are run
 * regression testing is finished
 * identified and mitigated product risks
 * closing report generated and sent

@@ -41,24 +41,27 @@ The plan identifies the items to be tested, the features to be tested, the types
 * regression testing is finished
 * identified and mitigated product risks
 * closing report generated and sent
-  
-1.1.4 Test scope
-Tests in scope: <br>
-(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)
 
+1.1.4 Test scope <br>
+Tests in scope: <br>
+* Positive/Negative testing
+* Functional testing
+* Usability testing
+* Equivalence partitioning
+* Boundary value analysis
 
 Tests not in scope: <br>
-(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)
-
+* Compatibility(with different devices or browsers)
+* Security testing
+  
 1.1.5 Risks detected <br>
 Project risks: <br>
 * Supplier issues
 * Technical issues
   
 Product risks: <br>
-(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)
-* low usability
-* low performance
+* Low usability
+* Low performance
   
 1.1.6 Evaluating entry criteria <br>
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
@@ -84,21 +87,27 @@ The following test conditions were found: <br>
 * Verify that an user is able to preview a quote before proceeding to the next submenu
 
 
-
 ### 1.4 Test Design
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (inserati linkul catre fisierul cu testele, in format pdf, word sau csv)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here ![image](https://github.com/emiliancristea11/Manual_Testing_Jira/assets/148649851/1e1e0410-d2b6-4866-825d-c2230e5050a0)
 
 ### 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
-
-(inserati lista de elemente care sunt evaluate in etapa de implementare)
+* Execution of test scripts
+* Test data preparation
+* Tool configuration
+* Enviroment setup
+* Defect reporting
+* Adherence to test procedures
+* Test case execution
+* Verification and validation
+* Documenting and reporting
 
 ### 1.6. Test Execution
 Test cases are executed on the created test Cycle summary: Automobile - Function Testing
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: (inserati aici fisierul cu bug-urile pe care le-ati identificat)
+Bugs have been created based on the failed tests. The complete bug reports can be found here: 
+![image](https://github.com/emiliancristea11/Manual_Testing_Jira/assets/148649851/371d50ff-c480-4416-89e4-232a100e2344)
 
-The following is a summary of the bugs that have been found (inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
@@ -115,5 +124,3 @@ Test execution chart was generated and can be found below.
 The final report shows that a number 5 tests have failed of a total of 10.
 
 A number of 5 total bugs were found, from which the priority is: 3 are high and 2 are medium.
-
-(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)
